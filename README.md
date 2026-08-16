@@ -75,8 +75,8 @@ http://localhost:8081
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/saket-gobindam-shaw-48407739b/)
-- **Email**: [sunilnathyogi008@gmail.com](mailto:saketgshaw1402@gmail.com)
-- **GitHub**: [@Sunil56224972](https://github.com/saketgshaw/)
+- **Email**: [saketgshaw1402@gmail.com](mailto:saketgshaw1402@gmail.com)
+- **GitHub**: [@saketgshaw](https://github.com/saketgshaw/)
 
 ---
 
