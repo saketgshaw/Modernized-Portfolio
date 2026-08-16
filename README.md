@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Sunil56224972/voyage">
+  <a href="https://github.com/saketgshaw/Projects_Saket">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Voyage+:+3D+Interactive+Portfolio;Welcome+to+my+Digital+Raft;Built+with+React+%2B+Three.js" alt="Typing SVG" />
   </a>
 </div>
@@ -74,12 +74,12 @@ http://localhost:8081
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/sunil-aimbot-81340839a/)
-- **Email**: [sunilnathyogi008@gmail.com](mailto:sunilnathyogi008@gmail.com)
-- **GitHub**: [@Sunil56224972](https://github.com/Sunil56224972)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/saket-gobindam-shaw-48407739b/)
+- **Email**: [sunilnathyogi008@gmail.com](mailto:saketgshaw1402@gmail.com)
+- **GitHub**: [@Sunil56224972](https://github.com/saketgshaw/)
 
 ---
 
 <p align="center">
-  <i>Crafted with ❤️ by Sunil Nath Yogi.</i>
+  <i>Crafted with ❤️ by Saket Gobindam Shaw.</i>
 </p>
